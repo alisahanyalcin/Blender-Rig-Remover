@@ -9,7 +9,7 @@ A simple Rig Remover addon for Blender
 5. You're done!
 
 ## Usage
-1. Go to Scene **Properties** > **Rig Remover** > **Remove Button**.
+1. Go to **Scene Properties** > **Rig Remover** > **Remove Button**.
 2. You're done!
 
 ## Notice
